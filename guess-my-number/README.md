@@ -1,12 +1,15 @@
-Features
-Usage and examples How It Works
+<h1 align="center">
+  💻<br>Guess my number game
+</h1>
 
 
 <p align="center">
-  <img src="./img/layout.jpg" alt="Size Limit CLI" width="738">
+  <img src="./img/1 screen.jpg" alt="Size Limit CLI" width="738">
 </p>
 
-
+# About
+This project can use Edlib in you project by either directly copying header and source files from [edlib/](edlib/), or by linking Edlib library (see [Building](#building) for instructions how to build Edlib libraries).
+In any case, only thing that you have to do in your source files is to include `edlib.h`.
 
 ## Contents
 - [Features](#features)
@@ -24,15 +27,14 @@ Usage and examples How It Works
 - [Publication](#publication)
 - [Acknowledgements](#acknowledgements)
 
-
-
-## Using Edlib in your project
-You can use Edlib in you project by either directly copying header and source files from [edlib/](edlib/), or by linking Edlib library (see [Building](#building) for instructions how to build Edlib libraries).
-In any case, only thing that you have to do in your source files is to include `edlib.h`.
+Features
+Usage and examples How It Works
 
 
 
-## How It Works
+
+
+# 👨‍💻✍️ 🌟 ⚠️  📒 🥳 🚀🚨📚💼 How It Works
 
 1. Size Limit contains a CLI tool, 3 plugins (`file`, `webpack`, `time`)
    and 3 plugin presets for popular use cases (`app`, `big-lib`, `small-lib`).
