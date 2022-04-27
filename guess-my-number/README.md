@@ -21,7 +21,7 @@ This project is part of the content of <a href="https://www.udemy.com/course/the
 - 
 
 ## 🚀 Get started
-
+Website: visit [https://well-app.netlify.app](https://well-app.netlify.app) to play.
 
 ## ✍️ Usage and examples
 In the input box we can type a number. And then on the right side, after click on the check buttom, we get a message. It can say our guess was too low or to high. Also we can see that we started with a Score of 5. Each time we failed, it decreases by 1.
