@@ -8,7 +8,7 @@
 </p>
 
 # 👨‍💻 About
-🔔 This project is part of the content of <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course by Jonas Schmedtman</a> available on Udemy. 
+This project is part of the content of <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course by Jonas Schmedtman</a> available on Udemy 🔔! 
 <br> It has a retro design inspired by the old 80s games. The goal of this game is to simply guess a secret number which is between one and 20. 
 
 ## 📚 Contents
