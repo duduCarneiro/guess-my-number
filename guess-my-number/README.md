@@ -33,7 +33,7 @@ Finally, we guess 19. So we get a correct number message.
 The screen turns green and also we now have the Highscore reached during this turn.
 
 A Highscore is another feature of this small application. Then if you want to play again, we can simply click the Again! button and it all resets everything except for the Highscore. The Highscore is kept and so if I'm quicker in this round, my Highscore will then become better.
-   
+  
 ## ⚙️ Built with
 - HTML;
 - CSS;
@@ -48,4 +48,4 @@ A Highscore is another feature of this small application. Then if you want to pl
 
 ## ⚠️ Credits
 While the JavaScript code and the logic behind the application was developed by me, following the content of the classes, the HTML and CSS was provided by Jonas Schmedtman.
-  
+
