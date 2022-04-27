@@ -7,13 +7,12 @@
   <img src="./img/1 screen.jpg" alt="Size Limit CLI" width="738">
 </p>
 
-# About
-This project is part of the content of <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course by Jonas Schmedtman</a> available on Udemy use Edlib in you project by either directly copying header and source files from [edlib/](edlib/), or by linking Edlib library (see [Building](#building) for instructions how to build Edlib libraries).
-In any case, only thing that you have to do in your source files is to include `edlib.h`.
+# 👨‍💻 About
+This project is part of the content of <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course by Jonas Schmedtman</a> available on Udemy. 
+<br> It has a retro design inspired by the old 80s games. The goal of this game is to simply guess a secret number which is between one and 20. 
 
 ## Contents
-- [Features](#features)
-- - [Get started](#features)
+- [Get started](#features)
 - [Building](#building)
 - [Using Edlib in your project](#using-edlib-in-your-project)
 - [Usage and examples](#usage-and-examples)
@@ -21,11 +20,27 @@ In any case, only thing that you have to do in your source files is to include `
 - [Alignment methods](#alignment-methods)
 - [Aligner](#aligner)
 - [Running tests](#running-tests)
-- [Time and space complexity](#time-and-space-complexity)
-- [Test data](#test-data)
 - [Development and contributing](#development-and-contributing)
 - [Publication](#publication)
 - [Acknowledgements](#acknowledgements)
+- 
+
+
+## Usage and examples
+In the input box we can type a number. And then on the right side, after click on the check buttom, we get a message. It can say our guess was too low or to high. Also we can see that we started with a Score of 5. Each time we failed, it decreases by 1.
+<br> Let's say the secret number is 19, we don´t know it yet. So, we try 5. It's too low! and our score decreased. Let's try another one. 20! Now it's too high and we get a different message.
+Finally, we guess 19. So we get a correct number message.
+<p align="center">
+  <img src="./img/2 screen.jpg" alt="Size Limit CLI" width="738">
+</p>
+The screen turns green and also we now have the Highscore reached during this turn.
+
+A Highscore is another feature of this small application. Then if you want to play again, we can simply click the Again! button and it all resets everything except for the Highscore. The Highscore is kept and so if I'm quicker in this round, my Highscore will then become better.
+
+
+
+
+
 
 Features
 Usage and examples How It Works
