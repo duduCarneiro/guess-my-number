@@ -8,7 +8,7 @@
 </p>
 
 # About
-This project is part of the content of <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course by Jonas Schmedtman</a> [The Complete JavaScript Course by Jonas Schmedtman](https://www.udemy.com/course/the-complete-javascript-course/) available on Udemy use Edlib in you project by either directly copying header and source files from [edlib/](edlib/), or by linking Edlib library (see [Building](#building) for instructions how to build Edlib libraries).
+This project is part of the content of <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course by Jonas Schmedtman</a> available on Udemy use Edlib in you project by either directly copying header and source files from [edlib/](edlib/), or by linking Edlib library (see [Building](#building) for instructions how to build Edlib libraries).
 In any case, only thing that you have to do in your source files is to include `edlib.h`.
 
 ## Contents
