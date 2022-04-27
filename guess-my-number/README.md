@@ -11,7 +11,7 @@
 This project is part of the content of <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course by Jonas Schmedtman</a> available on Udemy. 
 <br> It has a retro design inspired by the old 80s games. The goal of this game is to simply guess a secret number which is between one and 20. 
 
-## Contents
+## 📚 Contents
 - [Get started](#get-started)
 - [Usage and examples](#usage-and-examples)
 - [Built with](#built-with)
@@ -20,10 +20,10 @@ This project is part of the content of <a href="https://www.udemy.com/course/the
 - [Acknowledgements](#acknowledgements)
 - 
 
-## Get started
+## 🚀 Get started
 
 
-## Usage and examples
+## ✍️ Usage and examples
 In the input box we can type a number. And then on the right side, after click on the check buttom, we get a message. It can say our guess was too low or to high. Also we can see that we started with a Score of 5. Each time we failed, it decreases by 1.
 <br> Let's say the secret number is 19, we don´t know it yet. So, we try 5. It's too low! and our score decreased. Let's try another one. 20! Now it's too high and we get a different message.
 Finally, we guess 19. So we get a correct number message.
@@ -35,35 +35,22 @@ Finally, we guess 19. So we get a correct number message.
 The screen turns green and also we now have the Highscore reached during this turn.
 
 A Highscore is another feature of this small application. Then if you want to play again, we can simply click the Again! button and it all resets everything except for the Highscore. The Highscore is kept and so if I'm quicker in this round, my Highscore will then become better.
-
-
-
-
-
-# 👨‍💻✍️ 🌟 ⚠️  📒 🥳 🚀🚨📚💼 How It Works
-
-1. Size Limit contains a CLI tool, 3 plugins (`file`, `webpack`, `time`)
-   and 3 plugin presets for popular use cases (`app`, `big-lib`, `small-lib`).
-   A CLI tool finds plugins in `package.json` and loads the config.
-2. If you use the `webpack` plugin, Size Limit will bundle your JS files into
-   a single file. It is importa
    
-   
-   
-   
-## Built with
+## 🧐 Built with
 
 - HTML;
 - CSS;
 - JavaScript;
 
 
-</details>
-  <h2>Features</h2>
-  &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no dependencies<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no installation<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no configs<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no frameworks, pure JS<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;single-file executable<br>
-  <details>
+## Features
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no dependencies<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no installation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no configs<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no frameworks, pure JS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;single-file executable<br>
+
+## ⚠️ Credits
+  
+  🌟   📒 🥳 🚨💼
   
