@@ -37,13 +37,11 @@ The screen turns green and also we now have the Highscore reached during this tu
 A Highscore is another feature of this small application. Then if you want to play again, we can simply click the Again! button and it all resets everything except for the Highscore. The Highscore is kept and so if I'm quicker in this round, my Highscore will then become better.
    
 ## 🧐 Built with
-
 - HTML;
 - CSS;
 - JavaScript;
 
-
-## Features
+## 🌟 Features
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no dependencies<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no installation<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no configs<br>
@@ -51,6 +49,5 @@ A Highscore is another feature of this small application. Then if you want to pl
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;single-file executable<br>
 
 ## ⚠️ Credits
-  
-  🌟   📒 🥳 🚨💼
+While the JavaScript code and the logic behind the application was developed by me, following the content of the classes, the HTML and CSS was provided by Jonas Schmedtman.
   
