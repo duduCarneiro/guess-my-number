@@ -8,7 +8,7 @@
 </p>
 
 # About
-This project can use Edlib in you project by either directly copying header and source files from [edlib/](edlib/), or by linking Edlib library (see [Building](#building) for instructions how to build Edlib libraries).
+This project is part of the content of The Complete JavaScript Course by Jonas Schmedtman  use Edlib in you project by either directly copying header and source files from [edlib/](edlib/), or by linking Edlib library (see [Building](#building) for instructions how to build Edlib libraries).
 In any case, only thing that you have to do in your source files is to include `edlib.h`.
 
 ## Contents
