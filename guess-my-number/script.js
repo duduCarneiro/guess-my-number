@@ -9,8 +9,7 @@ let rightNumber = Math.trunc(Math.random()*20) + 1;
 console.log((rightNumber));
 let higherScore = 0;
 let originalScore = 5;
-// let originalScore = (document.querySelector('.score').textContent);
-
+const labelscore = document.querySelector('.label-score');
 const displayMessage = (message) => {document.querySelector('.message').textContent = message;};
 document.querySelector('.check').addEventListener('click', function() {
     const guess = Number(document.querySelector('.guess').value);
@@ -43,6 +42,10 @@ document.querySelector('.check').addEventListener('click', function() {
         } else {
             displayMessage('you lose 😞');
             countingScore(originalScore -= 1);
+            console.log(document.querySelector('.label-score'));
+            setTimeout(() => {
+              labelscore.classList.add("invisible");
+            }, 10);
             document.querySelector('.check').disable = true;
         }
     }
@@ -53,6 +56,7 @@ document.querySelector('.again').addEventListener('click', function() {
     rightNumber = Math.trunc(Math.random()*20) + 1;
     console.log((rightNumber));
     originalScore = 5;
+    if (labelscore.classList.contains("invisible")) {labelscore.classList.remove("invisible")};
     document.querySelector('.check').disabled = false;
     displayMessage('Start guessing...');
     document.querySelector('.number').textContent = '?';
