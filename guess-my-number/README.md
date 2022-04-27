@@ -46,6 +46,6 @@ A Highscore is another feature of this small application. Then if you want to pl
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no frameworks, pure JS<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;single-file executable<br>
 
-## Credits ⚠️
+## Credits
 While the JavaScript code and the logic behind the application was developed by me, following the content of the classes, the HTML and CSS was provided by Jonas Schmedtman.
   
