@@ -15,7 +15,7 @@ This project is part of the content of <a href="https://www.udemy.com/course/the
 - [Get started](#get-started)
 - [Usage and examples](#usage-and-examples)
 - [Built with](#built-with)
-- [Features](#features)
+- [Features](#-features)
 - [Credits](https://github.com/duduCarneiro/my-javascript/tree/main/guess-my-number#credits)
 
 ## 🚀 Get started
