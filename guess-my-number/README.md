@@ -16,7 +16,7 @@ This project is part of the content of <a href="https://www.udemy.com/course/the
 - [Usage and examples](#usage-and-examples)
 - [Built with](#built-with)
 - [Features](##features)
-- [Credits](#⚠credits)
+- [Credits](#credits)
 
 ## 🚀 Get started
 Website: visit [https://well-app.netlify.app](https://well-app.netlify.app) to play.
@@ -46,6 +46,6 @@ A Highscore is another feature of this small application. Then if you want to pl
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no frameworks, pure JS<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;single-file executable<br>
 
-## ⚠️ Credits 
+## Credits ⚠️
 While the JavaScript code and the logic behind the application was developed by me, following the content of the classes, the HTML and CSS was provided by Jonas Schmedtman.
   
