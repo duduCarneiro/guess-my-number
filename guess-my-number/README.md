@@ -12,9 +12,9 @@ This project is part of the content of <a href="https://www.udemy.com/course/the
 <br> It has a retro design inspired by the old 80s games. The goal of this game is to simply guess a secret number which is between one and 20. 
 
 ## 📚 Contents
-- [Get started](#get-started)
-- [Usage and examples](#usage-and-examples)
-- [Built with](#built-with)
+- [Get started](#-get-started)
+- [Usage and examples](#-usage-and-examples)
+- [Built with](#-built-with)
 - [Features](#-features)
 - [Credits](#-credits)
 
