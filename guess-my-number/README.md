@@ -15,10 +15,8 @@ This project is part of the content of <a href="https://www.udemy.com/course/the
 - [Get started](#get-started)
 - [Usage and examples](#usage-and-examples)
 - [Built with](#built-with)
-- [Development and contributing](#development-and-contributing)
-- [Publication](#publication)
-- [Acknowledgements](#acknowledgements)
-- 
+- [Features](#features)
+- [Credits](#credits)
 
 ## 🚀 Get started
 Website: visit [https://well-app.netlify.app](https://well-app.netlify.app) to play.
