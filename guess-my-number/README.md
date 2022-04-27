@@ -16,7 +16,7 @@ This project is part of the content of <a href="https://www.udemy.com/course/the
 - [Usage and examples](#usage-and-examples)
 - [Built with](#built-with)
 - [Features](#features)
-- [Credits](#credits)
+- [Credits](#Credits)
 
 ## 🚀 Get started
 Website: visit [https://well-app.netlify.app](https://well-app.netlify.app) to play.
