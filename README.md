@@ -22,7 +22,7 @@ This project is part of the content of <a href="https://www.udemy.com/course/the
 
 ## 🚀 Get started
 
-Website: visit [https://well-app.netlify.app](https://guess-my-number-app.herokuapp.com/) to play.
+Website: visit [guess-my-number-app.herokuapp.com/](https://guess-my-number-app.herokuapp.com/) to play.
 
 ## ✍️ Usage and examples
 
