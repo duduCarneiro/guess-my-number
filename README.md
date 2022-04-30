@@ -54,5 +54,5 @@ A Highscore is another feature of this small application. Then if you want to pl
 
 ## ⚠️ Credits
 
-While the JavaScript code and the logic behind the application was developed by me, following the content of the classes, the HTML and CSS was provided by Jonas Schmedtman.
+While the JavaScript code and the logic behind the application was developed by me, following the content of the classes, the HTML and CSS were provided by Jonas Schmedtman.
 
